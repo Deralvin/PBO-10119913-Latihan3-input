@@ -10,9 +10,11 @@ import java.util.Scanner;
 /**
  *
  * @author Muhammad Alvin Rizqi Ramadhan
- * @author NIM 10119913jj
+ * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program ini Proses INPUT
  */
-public class Latihan3MemasukanNilaiDariKeyboard {
+public class PBO1010119913Latihan3Input {
 
     /**
      * @param args the command line arguments
